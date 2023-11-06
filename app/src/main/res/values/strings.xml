@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Face Sculptor Advisor</string>
+
+    <string name="Tip1"> Your creative journey begins with choosing the gender and race, enabling you to mold diverse characters according to your preferences. </string>
+    <string name="Tip2">Your creative journey begins with choosing the gender and race, enabling you to mold diverse characters according to your preferences.</string>
+    <string name="Tip3">Next, you\'ll select the race, allowing you to mold characters from various backgrounds to your preferences.</string>
+    <string name="Tip4">Next, you\'ll select the race, allowing you to mold characters from various backgrounds to your preferences.</string>
+    <string name="Tip5">The app provides an extensive palette of colors and brushes, empowering you to meticulously customize various aspects of the face, from skin tones to intricate hair color.</string>
+    <string name="Tip6">The app provides an extensive palette of colors and brushes, empowering you to meticulously customize various aspects of the face, from skin tones to intricate hair color.</string>
+    <string name="Tip7">To add that final touch of individuality, you can accessorize your animated creations with a selection of stylish glasses, hats, or quirky masks. Each character you sculpt becomes a truly one-of-a-kind masterpiece.</string>
+    <string name="Tip8">To add that final touch of individuality, you can accessorize your animated creations with a selection of stylish glasses, hats, or quirky masks. Each character you sculpt becomes a truly one-of-a-kind masterpiece.</string>
+    <string name="Tip9">To add that final touch of individuality, you can accessorize your animated creations with a selection of stylish glasses, hats, or quirky masks. Each character you sculpt becomes a truly one-of-a-kind masterpiece.</string>
+    <string name="Tip10">To add that final touch of individuality, you can accessorize your animated creations with a selection of stylish glasses, hats, or quirky masks. Each character you sculpt becomes a truly one-of-a-kind masterpiece.</string>
+
+    <string name="Title_1">Face of a young boy </string>
+    <string name="Title_2">Face of a young girl </string>
+    <string name="Title_3">White face and blue eyes </string>
+    <string name="Title_4">Brown face and black hair</string>
+    <string name="Title_5">Selecting purple color for hair</string>
+    <string name="Title_6">Selecting yellow color for hair</string>
+    <string name="Title_7">Wearing beautiful pinky sunglasses </string>
+    <string name="Title_8">Wearing pinky sunglasses on the beach</string>
+    <string name="Title_9">Putting some accessories at last </string>
+    <string name="Title_10">Putting some accessories at last</string>
+
+</resources>
